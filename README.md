@@ -1,1 +1,1 @@
-You can try the app at [https://superchat-5c6b0.web.app/](https://superchat-5c6b0.web.app/)
+You can try out the app at [https://superchat-5c6b0.web.app/](https://superchat-5c6b0.web.app/)
