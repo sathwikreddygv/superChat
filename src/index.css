@@ -11,3 +11,69 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.signin_button{
+  border: 1px solid gray;
+  /* padding: 20px; */
+  cursor: pointer;
+  background-color: aquamarine;
+  border-radius: 6px;
+  width: 150px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 50vh;
+  left: 50vh;
+}
+
+.signout_button{
+  border: 1px solid gray;
+  /* padding: 20px; */
+  cursor: pointer;
+  background-color: rgb(235, 72, 72);
+  border-radius: 6px;
+  width: 100px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.send_button{
+  border: 1px solid gray;
+  /* padding: 20px; */
+  cursor: pointer;
+  background-color: rgb(35, 150, 54);
+  border-radius: 6px;
+  width: 100px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10px;
+}
+
+.msg_input{
+  height: 32px;
+  border-radius: 4px;
+  padding: 0px 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex_property{
+  display: flex;
+  align-items: center;
+}
+
+.flex_center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
